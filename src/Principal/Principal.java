@@ -4,6 +4,9 @@ package Principal;
 import ejerciciosr.EjercicioN10;
 import ejerciciosr.EjercicioN16;
 import ejerciciosr.EjercicioN22;
+import ejerciciosr.EjercicioN28;
+import ejerciciosr.EjercicioN34;
+import ejerciciosr.EjercicioN40;
 import ejerciciosr.EjerciciosR;
 
 
@@ -17,6 +20,12 @@ public class Principal {
         ht.operation();
         EjercicioN22 ent = new EjercicioN22();
         ent.operation();
+        EjercicioN28 cod = new EjercicioN28();
+        cod.operation();
+        EjercicioN34 dw = new EjercicioN34();
+        dw.operation();
+        EjercicioN40 wt = new EjercicioN40();
+        wt.operation();
     }
     
 }
