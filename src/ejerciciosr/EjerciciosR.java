@@ -18,7 +18,7 @@ public class EjerciciosR {
         System.out.println("Ejercicio # 4: \n");
         System.out.println("La suma de " +x+ " + " +y+ " = " +sum);
         System.out.println("La resta de " +x+ " - " +y+ " = " +res);
-        System.out.println("La multiplicascion de " +x+ " * " +y+ " = " +mul);
-        System.out.println("La divicion de " +x+ " / " +y+ " = " +div+ "\n");
+        System.out.println("La multiplicación de " +x+ " * " +y+ " = " +mul);
+        System.out.println("La división de " +x+ " / " +y+ " = " +div+ "\n");
     }    
 }
